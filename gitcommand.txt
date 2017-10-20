@@ -1,0 +1,12 @@
+echo "# seleniumproject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sharyjay/seleniumproject.git
+git push -u origin master
+
+ git config --global user.email "sharyjay14.com"
+ git config --global user.name "sharyjay"
+
+git config --global user.email-to know the email details
+git config --global user.name - to know the user details
